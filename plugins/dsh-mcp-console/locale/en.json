@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "MCP Console",
+    "description": "Lists the MCP servers loaded in this profile, with their transport, state and tool count, and reloads one or all of their connections."
+  }
+}

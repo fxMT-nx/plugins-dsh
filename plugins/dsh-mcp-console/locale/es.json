@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Consola MCP",
+    "description": "Lista los servidores MCP cargados en este perfil, con su transporte, su estado y su número de herramientas, y permite recargar una o todas sus conexiones."
+  }
+}

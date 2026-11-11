@@ -1,0 +1,5 @@
+- insert:
+    - id: mcp-console
+      name: '@local/dsh-mcp-console'
+      config:
+        reloadTimeoutMs: 30000

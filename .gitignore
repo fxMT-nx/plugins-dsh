@@ -1,0 +1,21 @@
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+pnpm-debug.log*
+
+# Temporales y pruebas locales
+tmp/
+*.log
+*.bak
+*.bak-*
+*~$*
+
+# Editores
+.vscode/
+.idea/
+*.swp
